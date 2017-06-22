@@ -1,4 +1,3 @@
-/ Use forEach to console.log contents.
-arr.forEach(function(item) {
-    console.log(item);
-    });
+// Not using for loop or forEach.
+// Use Array.toString() to console.log contents.
+console.log(arr.toString())
